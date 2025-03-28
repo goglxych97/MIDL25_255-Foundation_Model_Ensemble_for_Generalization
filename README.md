@@ -1,6 +1,6 @@
 # Foundation Model Ensemble for Out-of-Distribution Generalization: Predicting Lymph Node Metastasis in Early Gastric Cancer Using Whole-Slide Imaging
 
-**Status:** Under Review for MIDL 2025
+**Status:** Accepted for MIDL 2025
 
 This GitHub repository includes scripts for utilizing various foundation models and the entire pipeline used in our study. 
 <br/>
